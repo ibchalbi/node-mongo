@@ -1,0 +1,1 @@
+console.log('the index page')
